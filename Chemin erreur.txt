@@ -1,0 +1,25 @@
+oui
+Peux tu crypter un message
+mon pc est eteint
+1
+2
+5
+6
+oui
+z
+y
+x
+w
+v
+u
+t
+s
+r
+q
+p
+o
+n
+2
+5
+6
+4

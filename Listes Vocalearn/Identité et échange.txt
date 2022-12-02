@@ -1,0 +1,120 @@
+der Ort
+le lieu
+4
+die Gegend
+la région
+1
+ein Gefühl
+un sentiment, une émotion
+2
+das Zuhause
+le chez-soi
+1
+die Verbundheit
+l'attachement, les liens
+1
+die Geborgenheit
+le sentiment de sécurité
+1
+die Wurzel
+la racine, l'origine
+1
+der Wohnort
+le lieu d'habitation
+1
+der Wert
+la valeur
+1
+das Glück
+la chance, le bonheur
+2
+die Landschaft
+le paysage
+1
+zurückkommen
+revenir, rentrer
+1
+bei sich tragen
+avoir/porter sur soi
+1
+jemanden gern haben
+affectioner/aimer quelqu'un
+1
+vertraut sein mit etwas
+bien connaître quelque chose
+1
+aufgehoben sein
+être entre de bonnes mains
+1
+geborgen sein
+être en sécurité
+1
+zugehörig fühlen
+se sentir appartenant
+1
+sich wohlfühlen
+se sentir bien/à l'aise
+1
+das Heimweh
+le mal du pays
+1
+das Fernweh
+le besoin de courir le monde
+1
+geboren
+né
+1
+aufwachsen
+grandir
+1
+da, dort
+là, là-bas
+2
+dahin, dorthin
+par là-bas
+2
+hier
+ici
+2
+verwurzelt sein
+être ancré/enraciné
+1
+die Stadt
+la ville
+2
+das Dorf
+le village
+1
+wohnen
+habiter
+1
+der Wald
+la forêt
+0
+das Meer
+la mer
+0
+die Berge
+la montagne
+0
+sich fremd fühlen
+se sentir étranger
+0
+sich zu Hause fühlen
+se sentir chez soi/à sa place
+0
+das Zugehörigkeitsgefühl
+le sentiment d'appartenance
+0
+herkommen
+provenir
+0
+die Herkunft
+l'origine
+0
+ich vermisse etwas
+quelqu'un me manque
+0
+hingehören, dazugehören
+appartenir, être à sa place
+0

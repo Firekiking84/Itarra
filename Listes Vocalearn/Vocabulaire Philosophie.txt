@@ -1,0 +1,177 @@
+accident
+ce sont les différentes modifications qu'un être ou une chose réel peuvent recevoir
+3
+aphorisme
+sentence/maxime au caractère énigmatique, visant à éclairer un concept ou une idée en peu de mots
+2
+Logos
+discours rationnel, réalité, intellectuel
+2
+maxime
+conclusion concise et proverbiale ayant une visée morale
+2
+essence
+c'est ce qui constitue la nature immuable d'une chose/individuel. Indépendamment de ce qui lui arrive
+2
+rationnel
+ce qui est conforme aux principes de la raison/de l'entendement
+2
+système
+ensemble cohérent et organisé de théorie qui visent à expliquer la totalité de ce qui est
+2
+la fin utilitaire
+viser quelque chose en vue d'autre chose, viser un but extérieur à soi
+2
+objectif
+ce qui concerne les objets, indépendamment d'un sujet les envisageant
+2
+fin
+ce qui est visé par une chose, par un individu, ou par une action
+2
+contingence
+ce qui est, qui existe mais qui aurait pu ne pas être
+2
+sensible
+ce dont on peut faire l'expérience physique par le biais des sens
+2
+l'idéalisme
+doctrine/système philosophique selon laquelle les idées sont la seule réalité certaine et sont au principe/à l'origine de tout ce qui existe
+2
+anthropologique
+ce qui concerne les êtres humains
+2
+theoria
+contempler, regarder, penser
+2
+nécessaire
+ce qui ne peut pas ne pas être, ce qui ne peut être autrement
+2
+intelligible
+ce que l'on peut contempler à l'aide de l'intellect, ce qui est saisissable/compréhensible par l'être
+2
+mythe(éthymologie)
+muthos
+2
+aporie
+une contradiction ou un problème insoluble dans un raisonnement
+2
+paradoxe
+un énoncé contraire à l'opinion commune, et plus précisément un énoncé contenant une contradiction logique
+2
+utilité
+faire quelque chose en vue de quelque chose d'autre
+2
+éducative
+ce qui va contribuer à la formation d'un individu
+2
+la fin en soi
+viser un but intérieur, viser quelque chose en vue de rien d'autre que soi
+2
+spéculation
+réflexion rationnel sur des objets abstraits
+2
+ratio
+raison
+2
+mythe(définition)
+récit, fiction, imagination
+2
+genèse
+le début, le mouvement de la création, l'origine
+2
+métaphysique
+au-dessus, au-delà de la physique, de la science
+2
+allégorie
+représentation imagée d'une idée/concept/symbole abstrait
+2
+tripalium
+travail
+2
+indubitable
+ce dont on ne peut pas douter
+2
+scepticisme
+doute radical
+2
+palingénésie
+renouveau, renaissance
+2
+mouvements elliptiques
+mouvements des astres en forme d'ellipse
+2
+les êtres vivants
+ce qui est animé, ce qui est doté d'une âme
+2
+physique
+l'étude des mouvements
+2
+dichotomie
+disjonction, opposition entre deux définitions possibles d'une même chose
+2
+la réalité
+ce que les choses sont indépendamment de ce que l'on en pense. Elles ne sont ni vraies, ni fausses, elles sont simplement ce qu'elles sont
+2
+la vérité
+la bonne adéquation d'une idée à une chose
+2
+le subjectif
+ce qui concerne uniquement un sujet
+2
+le dualisme
+doctrine philosophique qui établit l'existence de deux principes irréductibles et indépendants pour expliquer une chose
+2
+une substance
+en philosophie ou en ontologie, la substance désigne ce qu'il y a de permanent dans les choses qui changent, et donc le fondement de tout accident
+2
+le solipsisme
+doctrine philosophique selon laquelle la seule réalité certaine est celle du soi
+2
+la finitude
+caractère de tout ce qui est fini, temporel, ce sont les limites des facultés d'un être
+2
+un raisonnement
+le fait d'ordonner une succession logique et rationnelle d'un ensemble de propositions ou de faits de manière à les rendre cohérents, à les expliquer
+2
+une démonstration
+le fait de prouver la vérité d'une proposition en indiquant sa nécessité à l'aide d'un raisonnement, et sans recours à l'expérience
+2
+l'induction
+procédé du raisonnement par lequel on va des effets aux causes, des conséquences aux principes, du particulier au général, de l'inconnu vers le connu pour l'expliquer
+2
+le simple
+ce qui est pur, homogène, ce qui n'est pas composé d'éléments étrangers
+2
+le complexe
+ce qui est composé de plusieurs éléments hétérogènes
+2
+l'analyse
+examen rationnel qui procède au détail d'un tout composé pour en discerner les constituants, procédé qui va du tout aux parties
+2
+la synthèse
+opération rationnel qui consiste à composer ou à recomposer plusieurs éléments hétérogènes en un tout cohérent et consistant, procédé qui va des parties au tout
+0
+la foi
+acte de la volonté ou du coeur par laquelle on adopte comme étant vraie une vision du monde qui n'est ni rationnelle, ni démontrable, elle ne fait pas intervenir la raison, et concerne le plus souvent la croyance religieuse
+0
+l'inné
+aptitude ou faculté inhérentes à un individu, et non acquises par l'expérience
+0
+l'acquis
+aptitude ou faculté obtenues par l'expérience sans que cela ait été auparavant possédé
+0
+l'instinct
+mouvement, tendance très forte, surtout chez les animaux, qui pousse un individu à exécuter des actes adaptés à un but fixé par son espèce, et dont il n'a pas immédiatement conscience
+0
+l'absurde
+chose qui dépasse l'entendement, qui est sans raison ni fondement; pardois, qui peut être contraire à la raison
+0
+l'affect
+ce qui se rapporte au domaine de la sensibilité et des émotions ressenties par un individu
+0
+épistémologie/épistémologique
+branche de la philosophie qui étudie l'histoire, les méthodes et les principes de la science
+0
+la déduction
+procédé du raisonnement par lequel on va de la cause aux effets, des principes aux conséquences, du général au particulier, du connu vers l'inconnu pour l'expliquer
+0
