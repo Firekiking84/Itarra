@@ -19,3 +19,5 @@ Les fonctionnalités du code :
   
   ATTENTION : Les listes sont basées sur mes mots, ce sont les faiblesses de ce système car si vous formulez différemment que les possibilités que j'ai envisagé
   le programme peut ne pas vous comprendre.
+
+C'est un projet perso bac à sable, j'ai appris le code en même temps, la structure n'est pas forcément propre comme le code, mais je suis maintenant en étude et je compte m'améliorer durant mes futurs projets.
